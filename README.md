@@ -1,3 +1,6 @@
+> [!CAUTION]
+> This package has been moved to https://github.com/MetaMask/providers
+
 # MetaMask Inpage Provider
 
 The inpage Ethereum provider object injected by MetaMask into web pages.
